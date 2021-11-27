@@ -9,10 +9,7 @@ package EndCode;
 import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
-/**
- *
- * @author tien
- */
+
 public class Md5 {
     private  String password;
     public Md5(String password) {
