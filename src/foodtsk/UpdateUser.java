@@ -9,10 +9,6 @@ import Dao.UserDao;
 import Model.User;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author tien
- */
 public class UpdateUser extends javax.swing.JFrame {
 
     /**

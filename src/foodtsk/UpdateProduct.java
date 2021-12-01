@@ -12,10 +12,7 @@ import Model.User;
 import java.io.FileNotFoundException;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author tien
- */
+
 public class UpdateProduct extends javax.swing.JFrame {
 
     /**

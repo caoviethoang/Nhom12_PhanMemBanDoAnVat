@@ -17,10 +17,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import keeptoo.KGradientPanel;
 
-/**
- *
- * @author TSang
- */
+
 public class SignUp extends javax.swing.JFrame {
     private UserDao userDao;
     

@@ -9,10 +9,6 @@ import java.awt.Color;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author TSang
- */
 class Jpanel {
 
     Jpanel() {
