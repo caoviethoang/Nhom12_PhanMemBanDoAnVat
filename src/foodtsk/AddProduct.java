@@ -19,10 +19,6 @@ import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
-/**
- *
- * @author tien
- */
 public class AddProduct extends javax.swing.JFrame {
 
     String s;

@@ -12,10 +12,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author tien
- */
+
 public class AddUser extends javax.swing.JFrame {
     private Md5 md5;
     private UserDao userDao;
