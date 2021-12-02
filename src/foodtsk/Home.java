@@ -63,10 +63,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author TSang
- */
+
 public class Home extends javax.swing.JFrame {
 //static private JLabel[] drinkLabel;
     /**
